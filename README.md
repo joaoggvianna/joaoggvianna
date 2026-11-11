@@ -5,7 +5,7 @@
   Desenvolvimento Backend · Integração de Sistemas · IA
 </p>
 
-Sou estudante de Ciência da Computação na PUC-SP e atuo com desenvolvimento e integração de sistemas. Tenho interesse em engenharia de software, backend, bancos de dados e aplicações práticas de inteligência artificial.
+Sou estudante de Ciência da Computação na PUC-SP e atuo com desenvolvimento e integração de sistemas. Tenho interesse em engenharia de software, backend, bancos de dados e aplicações práticas de inteligência artificial. Também exploro arquiteturas multiagentes e orquestração de workflows com CrewAI.
 
 Gosto de construir projetos com escopo bem definido, entender as decisões de arquitetura e documentar o processo de desenvolvimento de forma clara e explicável.
 
@@ -23,6 +23,7 @@ Gosto de construir projetos com escopo bem definido, entender as decisões de ar
 
 - **Linguagens:** Python, SQL e C
 - **Backend e dados:** FastAPI, PostgreSQL, SQL Server e APIs REST
+- **IA e automação:** CrewAI, experimentos com sistemas multiagentes e orquestração de workflows
 - **Ferramentas:** Git, GitHub e Docker
 - **Interesses:** integração de sistemas, engenharia de software, automação e aprendizado de máquina
 
@@ -61,7 +62,9 @@ Projeto de estudo desenvolvido para praticar consumo de uma API REST pública. A
 
 Atuo com integração de sistemas e automações, incluindo atividades relacionadas a **ERP Protheus/TOTVS** e **SQL Server**. Nos projetos acadêmicos e pessoais, procuro aplicar boas práticas de modelagem, versionamento, testes e documentação.
 
-Atualmente, aprofundo meus conhecimentos em desenvolvimento backend, arquitetura de software e aprendizado por reforço.
+Também desenvolvo experimentos com **CrewAI**, incluindo a **Dropset**, uma newsletter fitness cujo fluxo de pesquisa e elaboração de conteúdo explora a colaboração entre agentes de IA. É um projeto em evolução, ainda não apresentado como sistema em produção.
+
+Atualmente, aprofundo meus conhecimentos em desenvolvimento backend, arquitetura de software, aprendizado por reforço e aplicações multiagentes.
 
 ## Contato
 
