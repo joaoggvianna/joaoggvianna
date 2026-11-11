@@ -25,7 +25,7 @@ Gosto de construir projetos com escopo bem definido, entender as decisões de ar
 - **Backend e dados:** FastAPI, PostgreSQL, SQL Server e APIs REST
 - **IA e automação:** CrewAI, experimentos com sistemas multiagentes e orquestração de workflows
 - **Ferramentas:** Git, GitHub e Docker
-- **Interesses:** integração de sistemas, engenharia de software, automação e aprendizado de máquina
+- **Interesses:** integração de sistemas, engenharia de software, ciência de dados, automação e aprendizado de máquina
 
 ## Projetos em destaque
 
