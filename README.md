@@ -49,14 +49,14 @@ Minha atuação está concentrada em **levantamento de requisitos, modelagem e d
 
 `Python` `FastAPI` `PostgreSQL` `TCP` · **Em desenvolvimento**
 
-### [PokéIndex — Explorando APIs com Python](https://github.com/joaoggvianna/pokeindex)
+### [PokéIndex — Consulta de informações de Pokémon via terminal, desenvolvida em Python com a PokéAPI.](https://github.com/joaoggvianna/pokeindex)
 Projeto de estudo desenvolvido para praticar consumo de uma API REST pública. A aplicação consulta dados de Pokémon pela [PokéAPI](https://pokeapi.co/) e apresenta informações no terminal.
 
 - Consumo de API REST com Python
 - Manipulação de respostas JSON
 - Exercício de lógica e tratamento de dados
 
-`Python` `Requests` `REST API` · **Consulta CLI finalizada**
+`Python` `Requests` `REST API` · **Consulta CLI finalizada; interface web planejada.**
 
 ## Experiência e aprendizado
 
