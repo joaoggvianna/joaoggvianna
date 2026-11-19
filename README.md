@@ -56,7 +56,7 @@ Projeto de estudo desenvolvido para praticar consumo de uma API REST pública. A
 - Manipulação de respostas JSON
 - Exercício de lógica e tratamento de dados
 
-`Python` `Requests` `REST API` · **Projeto de aprendizado**
+`Python` `Requests` `REST API` · **Consulta CLI finalizada**
 
 ## Experiência e aprendizado
 
